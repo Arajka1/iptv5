@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",01 RTSH HD
+http://185.204.32.4:9981/stream/channelid/1606000651?ticket=89334ABAA6D71D4B1B1B6DC3E933C876DA94D172&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",02 RTSH 2 HD
+http://185.204.32.4:9981/stream/channelid/845796780?ticket=430B78B372C220E6B7D57184F53E0A9BF9FD6509&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",03 RTSH 3
+http://185.204.32.4:9981/stream/channelid/1718846587?ticket=E0C3087A877342BBE0B71C9400FC75FDF8F69B03&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",21 Plus (576p) [Not 24/7]
+http://46.29.169.15:4001/play/a00b/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",24 Kitchen HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1343?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",3 Plus HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",31 RTSH Sport HD
+http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",32 RTSH Shkolle HD
+http://185.204.32.4:9981/stream/channelid/902478398?ticket=590650D44095E7B7E04061269F182B55CFB1179D&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",33 RTSH Agro
+http://185.204.32.4:9981/stream/channelid/944434146?ticket=85BC7935D7CF2B120E0C8D13A0CF12965E1129B8&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",34 RTSH Femije
+http://185.204.32.4:9981/stream/channelid/81074854?ticket=12986283637454DC210DD0B0D28A38A9959E8635&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",35 RTSH 24 HD
+http://185.204.32.4:9981/stream/channelid/868261949?ticket=A28AC841CEB4323C6C3EEBFF8C3E8A345E5E9873&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",36 RTSH Film
+http://185.204.32.4:9981/stream/channelid/1699140733?ticket=7472E1A4653BDA2A8B64314A2B7DDCE68B41EC9C&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",37 RTSH Shqip
+http://185.204.32.4:9981/stream/channelid/847076243?ticket=93BB3B5BD5FF43D73C15ED2BEFCE73F308C6B7E4&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",38 RTSH Muzike
+http://185.204.32.4:9981/stream/channelid/1799910036?ticket=F45D48C60FC8B834CE7C12CC7565E8BCCCFA49A1&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",39 RTSH Plus
+http://185.204.32.4:9981/stream/channelid/914839179?ticket=EE6BA35254A97A72FC0BBDE90DE919398C89FF94&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",44 RTSH Kuvend
+http://185.204.32.4:9981/stream/channelid/611573695?ticket=D9990D006CC1F3F9A01D319C3E9A44075BE2A8B0&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Action HD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215332.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Action HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Cifteli FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/12464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Drame HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263766?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Gjurme Shqiptare TV HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193733?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Humor HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263772?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Komedi HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263767?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Thriller HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263765?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A TV FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/171891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 REPORT
+http://mains.services:2086/kixy2030/u8zC9nvB69/93111?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 SHQIPTARE
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAE_YfxUI_BGBKbGYZNBUDU?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A2 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281857?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",AA Network HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84788?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2551?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC NEWS
+http://mains.services:2086/kixy2030/u8zC9nvB69/93113?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC NEWS FHD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC News HD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215346.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC Story FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/169843?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ACTV
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84789?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB Humor 2 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43078?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB Music HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/44994?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109142?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/15558?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART DOKU 2 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109188?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/23146?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/40061?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295216?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 6 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295217?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ATD TV FHD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215372.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Abc News FHD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/52?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Adria Net HD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215347.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Adria Net HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/173470?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Music HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/450?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Swiss FHD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215350.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Swiss FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/12437?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",AlbSE HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/88884?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Albuk FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alpo HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278528?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alpo Media Tv
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat FHD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215353.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M ( Tokësor )
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/31497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1346?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M UHD 4K+
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/23?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Amol TV HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281387?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Anime
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN0r6dxH3mbpRIaCHGr6ayM?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Apollon TV HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281856?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 2 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/171883?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 4 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193744?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 5 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/57711?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Doku 2 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 1 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146084?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 2
+http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9615?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 2 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146085?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 3 FHD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215366.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 3 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Media Muzikë
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/73945?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 FHD
+http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9614?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89117?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 FHD
+http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9613?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89118?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3 HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89119?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Arta News FHD
+http://brn8.b-cdn.net:80/live/akif/09.01.2022/215369.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Arta News HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Ashkali TV HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193769?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Atd TV
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/73950?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Atd TV HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278531?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Ibrahim Tatlises HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/36908?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Ilahi HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/25589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Kara Murat HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/36909?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Kemal Sunal TV HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/36907?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Muzikë HD ♫
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/25588?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Aksion HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/33798?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Fëmijë HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/33796?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B HITS
+http://mains.services:2086/kixy2030/u8zC9nvB69/93117?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Kemal Sunal TV HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/188245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B M. - Rap HD ♫
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/33799?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Police Academy HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/62103?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Popullore HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/47674?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Qifteli HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/61556?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Tregim Popullor HD
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/61560?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY TV
+http://mains.services:2086/kixy2030/u8zC9nvB69/98672?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BALKANIKA MUSIC
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109233?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist_w2121045972.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8?checkedby:iptvcat.net
+x-tvg-url="https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml"
+#EXTINF:-1 tvg-id="21Plus.xk" tvg-country="AL;XK" tvg-language="" tvg-logo="https://i.imgur.com/xG1p7Pm.png" group-title="Undefined",21 Plus (576p) [Not 24/7]
+http://46.29.169.15:4001/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="News",ABC News (720p) [Not 24/7]
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-country="ARAB;EUR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV (1080p) [Not 24/7]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://alpomedia.com/wp-content/uploads/2022/02/Alpo-Media-Logo200px.png" group-title="Undefined",ALPO (720p) [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="AL" tvg-language="" tvg-logo="" group-title="Undefined",ATD (1080p)
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 tvg-id="BabyTVEurope.uk" tvg-country="EUR" tvg-language="English;German" tvg-logo="https://i.imgur.com/z5E8vLR.png" group-title="Kids",Baby TV (480p)
+http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-country="EMEA" tvg-language="English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business",Bloomberg TV Europe UHD (2160p)
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="EuroAlTV.de" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLaEmIT.png" group-title="Undefined",EuroAl TV (720p)
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/240px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (Spain) (1080p)
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="MavTVSelect.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Sports",MavTV Select (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24 (392p) [Not 24/7]
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-country="EUR" tvg-language="Bengali;English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General",NTV Europe (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PeaceTVAlbanian.ae" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/albanian.jpg" group-title="Religious",Peace TV Albanian (360p)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT News (1080p) [Geo-blocked]
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH1HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Undefined",RTSH 1 (1080p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AZ43XZn.png" group-title="Undefined",RTSH 2 (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/kyhHTx3.png" group-title="Undefined",RTSH 3 (406p)
+https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/H6tCoGW.png" group-title="Undefined",RTSH 24 (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHAgro.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/BJm1nvw.png" group-title="Undefined",RTSH Agro (560p)
+https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHFemije.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/iBm46Sk.png" group-title="Undefined",RTSH Femijë (576p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHFilm.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/EBEslci.png" group-title="Undefined",RTSH Film (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHGjirokastra.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/xe81dLd.png" group-title="Undefined",RTSH Gjirokastra (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKorca.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PFLF9sQ.png" group-title="Undefined",RTSH Korça (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKukesi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/mB3uSnc.png" group-title="Undefined",RTSH Kukësi (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKuvend.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/SNQxekV.png" group-title="Undefined",RTSH Kuvend (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/7fMS5Hl.png" group-title="Undefined",RTSH Muzike (270p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gl9lNsQ.png" group-title="Undefined",RTSH Plus (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShkolle.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/4ngbFzu.png" group-title="Undefined",RTSH Shkollë (360p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/88kRsW3.png" group-title="Undefined",RTSH Shqip (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="Undefined",RTSH Sport (720p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
+#EXTINF:-1 tvg-id="ScanTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png" group-title="Undefined",RTV SCAN (480p) [Not 24/7]
+http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="AL" tvg-language="" tvg-logo="" group-title="Undefined",Shqiponja (720p) [Not 24/7]
+http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
+#EXTINF:-1 tvg-id="SyriTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://syri.tv/wp-content/uploads/2020/12/logo_web_2021-300x169.png" group-title="Undefined",Syri TV (720p) [Not 24/7]
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 tvg-id="TopNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="News",Top News (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Undefined",TV 7 Albania (540p) [Not 24/7]
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="TVApollon.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/O5YRr6i.jpg" group-title="Undefined",TV Apollon (720p)
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 tvg-id="TVOpoja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="Undefined",TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
