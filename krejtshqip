@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",01 RTSH HD
 http://185.204.32.4:9981/stream/channelid/1606000651?ticket=89334ABAA6D71D4B1B1B6DC3E933C876DA94D172&profile=pass&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",02 RTSH 2 HD
