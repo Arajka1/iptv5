@@ -1,324 +1,1093 @@
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",01 RTSH HD
-http://185.204.32.4:9981/stream/channelid/1606000651?ticket=89334ABAA6D71D4B1B1B6DC3E933C876DA94D172&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",02 RTSH 2 HD
-http://185.204.32.4:9981/stream/channelid/845796780?ticket=430B78B372C220E6B7D57184F53E0A9BF9FD6509&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",03 RTSH 3
-http://185.204.32.4:9981/stream/channelid/1718846587?ticket=E0C3087A877342BBE0B71C9400FC75FDF8F69B03&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",21 Plus (576p) [Not 24/7]
-http://46.29.169.15:4001/play/a00b/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",24 Kitchen HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1343?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",3 Plus HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4105?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",31 RTSH Sport HD
-http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",32 RTSH Shkolle HD
-http://185.204.32.4:9981/stream/channelid/902478398?ticket=590650D44095E7B7E04061269F182B55CFB1179D&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",33 RTSH Agro
-http://185.204.32.4:9981/stream/channelid/944434146?ticket=85BC7935D7CF2B120E0C8D13A0CF12965E1129B8&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",34 RTSH Femije
-http://185.204.32.4:9981/stream/channelid/81074854?ticket=12986283637454DC210DD0B0D28A38A9959E8635&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",35 RTSH 24 HD
-http://185.204.32.4:9981/stream/channelid/868261949?ticket=A28AC841CEB4323C6C3EEBFF8C3E8A345E5E9873&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",36 RTSH Film
-http://185.204.32.4:9981/stream/channelid/1699140733?ticket=7472E1A4653BDA2A8B64314A2B7DDCE68B41EC9C&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",37 RTSH Shqip
-http://185.204.32.4:9981/stream/channelid/847076243?ticket=93BB3B5BD5FF43D73C15ED2BEFCE73F308C6B7E4&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",38 RTSH Muzike
-http://185.204.32.4:9981/stream/channelid/1799910036?ticket=F45D48C60FC8B834CE7C12CC7565E8BCCCFA49A1&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",39 RTSH Plus
-http://185.204.32.4:9981/stream/channelid/914839179?ticket=EE6BA35254A97A72FC0BBDE90DE919398C89FF94&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",44 RTSH Kuvend
-http://185.204.32.4:9981/stream/channelid/611573695?ticket=D9990D006CC1F3F9A01D319C3E9A44075BE2A8B0&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Action HD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215332.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Action HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263764?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Cifteli FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/12464?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Drame HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263766?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Gjurme Shqiptare TV HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193733?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Humor HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263772?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Komedi HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263767?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova Thriller HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263765?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A TV FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/171891?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 REPORT
-http://mains.services:2086/kixy2030/u8zC9nvB69/93111?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 SHQIPTARE
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAE_YfxUI_BGBKbGYZNBUDU?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A2 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281857?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",AA Network HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84788?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2551?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC NEWS
-http://mains.services:2086/kixy2030/u8zC9nvB69/93113?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC NEWS FHD
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109169?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC News HD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215346.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC Story FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/169843?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ACTV
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84789?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB Humor 2 HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43078?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB Music HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/44994?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT HD
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109142?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/15558?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART DOKU 2 HD
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109188?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 2 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/23146?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 3 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/40061?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 4 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295216?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 6 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295217?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ATD TV FHD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215372.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Abc News FHD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/52?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Adria Net HD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215347.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Adria Net HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/173470?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Music HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/450?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Swiss FHD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215350.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Swiss FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/12437?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",AlbSE HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/88884?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Albuk FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4037?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alpo HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278528?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alpo Media Tv
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/186?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat FHD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215353.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M ( Tokësor )
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/31497?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1346?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M UHD 4K+
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/23?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Amol TV HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281387?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Anime
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN0r6dxH3mbpRIaCHGr6ayM?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Apollon TV HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281856?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 1 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193741?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 2 HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/171883?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 4 HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193744?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 5 HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/57711?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Doku 2 HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146081?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 1 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146084?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 2
-http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9615?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 2 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146085?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 3 FHD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215366.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 3 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146086?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Media Muzikë
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/73945?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 FHD
-http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9614?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89117?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 FHD
-http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9613?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89118?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3 HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89119?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Arta News FHD
-http://brn8.b-cdn.net:80/live/akif/09.01.2022/215369.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Arta News HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4039?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Ashkali TV HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/193769?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Atd TV
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/73950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Atd TV HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278531?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Ibrahim Tatlises HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/36908?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Ilahi HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/25589?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Kara Murat HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/36909?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Kemal Sunal TV HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/36907?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B  Muzikë HD ♫
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/25588?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Aksion HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/33798?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Fëmijë HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/33796?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B HITS
-http://mains.services:2086/kixy2030/u8zC9nvB69/93117?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Kemal Sunal TV HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/188245?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B M. - Rap HD ♫
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/33799?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Police Academy HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/62103?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Popullore HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/47674?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Qifteli HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/61556?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B Tregim Popullor HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/61560?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY TV
-http://mains.services:2086/kixy2030/u8zC9nvB69/98672?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BALKANIKA MUSIC
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109233?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
-http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist_w2121045972.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
-http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
-http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8?checkedby:iptvcat.net
-x-tvg-url="https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml"
-#EXTINF:-1 tvg-id="21Plus.xk" tvg-country="AL;XK" tvg-language="" tvg-logo="https://i.imgur.com/xG1p7Pm.png" group-title="Undefined",21 Plus (576p) [Not 24/7]
-http://46.29.169.15:4001/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="News",ABC News (720p) [Not 24/7]
-https://tv2.abcnews.al/live/abcnews/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-country="ARAB;EUR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV (1080p) [Not 24/7]
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlpoTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://alpomedia.com/wp-content/uploads/2022/02/Alpo-Media-Logo200px.png" group-title="Undefined",ALPO (720p) [Not 24/7]
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AL" tvg-language="" tvg-logo="" group-title="Undefined",ATD (1080p)
-http://46.99.146.236/0.m3u8
-#EXTINF:-1 tvg-id="BabyTVEurope.uk" tvg-country="EUR" tvg-language="English;German" tvg-logo="https://i.imgur.com/z5E8vLR.png" group-title="Kids",Baby TV (480p)
-http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD (720p) [Geo-blocked]
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-country="EMEA" tvg-language="English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business",Bloomberg TV Europe UHD (2160p)
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="EuroAlTV.de" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLaEmIT.png" group-title="Undefined",EuroAl TV (720p)
-http://5.135.92.131:1935/live/euroAl/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/240px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (Spain) (1080p)
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="MavTVSelect.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Sports",MavTV Select (720p)
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24 (392p) [Not 24/7]
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-country="EUR" tvg-language="Bengali;English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General",NTV Europe (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PeaceTVAlbanian.ae" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/albanian.jpg" group-title="Religious",Peace TV Albanian (360p)
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT News (1080p) [Geo-blocked]
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH1HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Undefined",RTSH 1 (1080p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AZ43XZn.png" group-title="Undefined",RTSH 2 (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/kyhHTx3.png" group-title="Undefined",RTSH 3 (406p)
-https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/H6tCoGW.png" group-title="Undefined",RTSH 24 (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHAgro.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/BJm1nvw.png" group-title="Undefined",RTSH Agro (560p)
-https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHFemije.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/iBm46Sk.png" group-title="Undefined",RTSH Femijë (576p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHFilm.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/EBEslci.png" group-title="Undefined",RTSH Film (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHGjirokastra.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/xe81dLd.png" group-title="Undefined",RTSH Gjirokastra (560p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHKorca.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PFLF9sQ.png" group-title="Undefined",RTSH Korça (560p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHKukesi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/mB3uSnc.png" group-title="Undefined",RTSH Kukësi (560p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHKuvend.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/SNQxekV.png" group-title="Undefined",RTSH Kuvend (560p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/7fMS5Hl.png" group-title="Undefined",RTSH Muzike (270p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gl9lNsQ.png" group-title="Undefined",RTSH Plus (560p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHShkolle.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/4ngbFzu.png" group-title="Undefined",RTSH Shkollë (360p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/88kRsW3.png" group-title="Undefined",RTSH Shqip (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHSport.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="Undefined",RTSH Sport (720p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:-1 tvg-id="ScanTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png" group-title="Undefined",RTV SCAN (480p) [Not 24/7]
-http://edge01eu.ekranet.com/scantv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="AL" tvg-language="" tvg-logo="" group-title="Undefined",Shqiponja (720p) [Not 24/7]
-http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
-#EXTINF:-1 tvg-id="SyriTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://syri.tv/wp-content/uploads/2020/12/logo_web_2021-300x169.png" group-title="Undefined",Syri TV (720p) [Not 24/7]
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1 tvg-id="TopNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="News",Top News (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (720p) [Not 24/7]
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TV7Albania.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Undefined",TV 7 Albania (540p) [Not 24/7]
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-id="TVApollon.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/O5YRr6i.jpg" group-title="Undefined",TV Apollon (720p)
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 tvg-id="TVOpoja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="Undefined",TV Opoja (720p) [Not 24/7]
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTM3U
+#EXTINF:0,[ALB] TOP CHANNEL 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261954
+#EXTINF:0,[ALB] TOP CHANNEL UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261955
+#EXTINF:0,[ALB] TV KLAN 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261956
+#EXTINF:0,[ALB] TV KLAN UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261957
+#EXTINF:0,[ALB] KLAN PLUS UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261960
+#EXTINF:0,[ALB] KLAN PLUS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261961
+#EXTINF:0,[ALB] VIZION PLUS 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261979
+#EXTINF:0,[ALB] VIZION PLUS UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261980
+#EXTINF:0,[ALB] RTSH 1 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261963
+#EXTINF:0,[ALB] RTSH 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261964
+#EXTINF:0,[ALB] RTSH 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261965
+#EXTINF:0,[ALB] RTSH 3
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261966
+#EXTINF:0,[ALB] RTSH PLUS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261968
+#EXTINF:0,[ALB] RTSH SPORT 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261969
+#EXTINF:0,[ALB] RTSH SHQIP
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261972
+#EXTINF:0,[ALB] RTSH KUVEND
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261974
+#EXTINF:0,ALB - RTSH 24
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/945290
+#EXTINF:0,[ALB] TEMA TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261994
+#EXTINF:0,[ALB] TËVË 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/711201
+#EXTINF:0,[ALB] TV1 CHANNEL SHOKDER
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261984
+#EXTINF:0,[ALB] SYRI VISION
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261985
+#EXTINF:0,[ALB] STAR PLUS SHKODËR UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261989
+#EXTINF:0,[ALB] ARTI TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/664248
+#EXTINF:0,[ALB] ALSAT TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/767128
+#EXTINF:0,[ALB] TV KOPLIKU UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261990
+#EXTINF:0,[ALB] ALPO TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/798638
+#EXTINF:0,ALB - DIZI TDC HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/878367
+#EXTINF:0,[ALB] EURONEWS ALBANIA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/668916
+#EXTINF:0,[ALB] KLAN NEWS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262161
+#EXTINF:0,[ALB] TOP NEWS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262162
+#EXTINF:0,[ALB] KANALI 7
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262163
+#EXTINF:0,[ALB] ORA NEWS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262165
+#EXTINF:0,ALB - MCN TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/839727
+#EXTINF:0,[ALB] ORA NEWS 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262164
+#EXTINF:0,[ALB] NEWS 24
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262166
+#EXTINF:0,[ALB] FAX NEWS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262167
+#EXTINF:0,[ALB] ABC NEWS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/669510
+#EXTINF:0,[ALB] REPORT TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262168
+#EXTINF:0,[ALB] A2 CNN
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262169
+#EXTINF:0,[ALB] FILM MAX UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262021
+#EXTINF:0,[ALB] FILM MAX HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262022
+#EXTINF:0,[ALB] FILM T 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262023
+#EXTINF:0,[ALB] FILM T UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262024
+#EXTINF:0,[ALB] FILM GOLD UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262025
+#EXTINF:0,[ALB] FILM GOLD HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262026
+#EXTINF:0,[ALB] FILM AKSION
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262027
+#EXTINF:0,[ALB] FILM AUTOR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262028
+#EXTINF:0,[ALB] FILM DRAMË
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262029
+#EXTINF:0,[ALB] FILM FAMILY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262030
+#EXTINF:0,[ALB] FILM HITS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262031
+#EXTINF:0,[ALB] FILM KOMEDI
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262032
+#EXTINF:0,[ALB] FILM THRILLER
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262034
+#EXTINF:0,[ALB] DISCOVERY+ 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732979
+#EXTINF:0,[ALB] DISCOVERY+ 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732978
+#EXTINF:0,[ALB] DISCOVERY+ 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732977
+#EXTINF:0,[ALB] DISCOVERY+ 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732976
+#EXTINF:0,[ALB] DISCOVERY+ 5 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732975
+#EXTINF:0,[ALB] DISCOVERY+ 6 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732974
+#EXTINF:0,[ALB] DISCOVERY+ 7 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732973
+#EXTINF:0,[ALB] DISCOVERY+ 8 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732972
+#EXTINF:0,[ALB] DISCOVERY+ 9 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732971
+#EXTINF:0,[ALB] DISCOVERY+ 10 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732970
+#EXTINF:0,[ALB] DISCOVERY+ MAX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732969
+#EXTINF:0,[ALB] DISCOVERY+ MAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732968
+#EXTINF:0,[ALB] DISCOVERY+ MAX 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732967
+#EXTINF:0,[ALB] DISCOVERY+ MAX 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732966
+#EXTINF:0,[ALB] DISCOVERY+ MAX 5 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732965
+#EXTINF:0,[ALB] DISCOVERY+ MAX 6 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/732964
+#EXTINF:0,[ALB] DIGI GOLD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/719605
+#EXTINF:0,[ALB] DIGI GOLD 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/719604
+#EXTINF:0,[ALB] DIGI GOLD 2
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/719603
+#EXTINF:0,[ALB] DIGI GOLD 3
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/719602
+#EXTINF:0,[ALB] DIGI GOLD 4
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/719601
+#EXTINF:0,[ALB] TRING SUPER 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262039
+#EXTINF:0,[ALB] TRING ACTION
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262040
+#EXTINF:0,[ALB] TRING COMEDY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262041
+#EXTINF:0,[ALB] TRING FANTASY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262042
+#EXTINF:0,[ALB] TRING SHQIP
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262043
+#EXTINF:0,[ALB] TRING LIFE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262044
+#EXTINF:0,[ALB] TRING SMILE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262045
+#EXTINF:0,[ALB] TRING JOLLY 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262046
+#EXTINF:0,[ALB] TRING 3+
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262047
+#EXTINF:0,[ALB] TRING CLASSIC HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/719599
+#EXTINF:0,[ALB] TRING NOVELAS HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/719600
+#EXTINF:0,[ALB] EURO FILM
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262080
+#EXTINF:0,[ALB] FIRST FAMILY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262127
+#EXTINF:0,[ALB] FIRST DRAME UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262128
+#EXTINF:0,[ALB] FFIRST COMEDY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262129
+#EXTINF:0,[ALB] FIRST ACTION UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262130
+#EXTINF:0,[ALB] SKY 7
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262132
+#EXTINF:0,[ALB] SKY AKSION
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262133
+#EXTINF:0,[ALB] SKY COMEDY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262134
+#EXTINF:0,[ALB] SKY DRAME
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262135
+#EXTINF:0,[ALB] SKY MAX
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262136
+#EXTINF:0,[ALB] SKY MOVIES ACTION UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262137
+#EXTINF:0,[ALB] SKY MOVIES UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262138
+#EXTINF:0,[ALB] SKY MOVIES PREMIERE UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262139
+#EXTINF:0,[ALB] FOX CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262147
+#EXTINF:0,[ALB] KANAL D DRAMA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262150
+#EXTINF:0,[ALB] LIVING 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262151
+#EXTINF:0,[ALB] AL PAZAR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/631963
+#EXTINF:0,[ALB] FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262148
+#EXTINF:0,[ALB] ÇKA KA SHPIJA 24/7 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/666506
+#EXTINF:0,[ALB] EXPLORER HISTORI
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262176
+#EXTINF:0,[ALB] EXPLORER NATYRA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262177
+#EXTINF:0,[ALB] EXPLORER SHKENCE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262178
+#EXTINF:0,[ALB] E GJURMET SHQIPTARE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/680025
+#EXTINF:0,[ALB] TRING PLANET
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262179
+#EXTINF:0,[ALB] TRING WORLD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262180
+#EXTINF:0,[ALB] TRING HISTORY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262181
+#EXTINF:0,ALB - ART DOKU 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/882191
+#EXTINF:0,ALB - ART DOKU 2
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/882192
+#EXTINF:0,[ALB] HISTORY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262188
+#EXTINF:0,[ALB] NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262189
+#EXTINF:0,[ALB] NATIONAL GEOGRAPHIC WILD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262190
+#EXTINF:0,[ALB] DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262191
+#EXTINF:0,[ALB] DISCOVERY TURBO EXTRA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262193
+#EXTINF:0,[ALB] DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262192
+#EXTINF:0,[ALB] INVESTIGATION DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262194
+#EXTINF:0,[ALB] X NATYRA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262183
+#EXTINF:0,[ALB] RTSH FEMIJE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262207
+#EXTINF:0,[ALB] BANG BANG
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262197
+#EXTINF:0,[ALB] CUFO
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262202
+#EXTINF:0,[ALB] JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262203
+#EXTINF:0,[ALB] TIP TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262209
+#EXTINF:0,[ALB] TRING KIDS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262204
+#EXTINF:0,[ALB] TRING TRING
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262205
+#EXTINF:0,[ALB] SOFIA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262206
+#EXTINF:0,[ALB] BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262201
+#EXTINF:0,[ALB] DUCK TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262208
+#EXTINF:0,[ALB] ART PRINCE KIDS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262215
+#EXTINF:0,[ALB] MR BEAN
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262154
+#EXTINF:0,[ALB] JIM JAM
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262217
+#EXTINF:0,[ALB] PJ MASKS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262211
+#EXTINF:0,[ALB] KIDS BOX
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262218
+#EXTINF:0,[ALB] BABY TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262199
+#EXTINF:0,[ALB] BUBRRECI TV UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262196
+#EXTINF:0,[ALB] KËNGË PËR FËMIJË
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262213
+#EXTINF:0,[ALB] RTV21 JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262210
+#EXTINF:0,[ALB] SHQIP TOM & JERRY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262159
+#EXTINF:0,[ALB] SUPER SPORT 1 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262220
+#EXTINF:0,[ALB] SUPER SPORT 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262221
+#EXTINF:0,[ALB] SUPER SPORT 2 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262222
+#EXTINF:0,[ALB] SUPER SPORT 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262223
+#EXTINF:0,[ALB] SUPER SPORT 3 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262224
+#EXTINF:0,[ALB] SUPER SPORT 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262225
+#EXTINF:0,[ALB] SUPER SPORT 4 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262226
+#EXTINF:0,[ALB] SUPER SPORT 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262227
+#EXTINF:0,[ALB] SUPER SPORT 5 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262228
+#EXTINF:0,[ALB] SUPER SPORT 5 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262229
+#EXTINF:0,[ALB] SUPER SPORT 6 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262230
+#EXTINF:0,[ALB] SUPER SPORT 6 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262231
+#EXTINF:0,[ALB] SUPER SPORT 7 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262232
+#EXTINF:0,[ALB] SUPER SPORT KOSOVA 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/708009
+#EXTINF:0,[ALB] SUPER SPORT KOSOVA 2
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/708008
+#EXTINF:0,[ALB] TRING SPORT NEWS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262233
+#EXTINF:0,[ALB] TRING SPORT NEWS UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262234
+#EXTINF:0,[ALB] TRING SPORT 1 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262235
+#EXTINF:0,[ALB] TRING SPORT 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262236
+#EXTINF:0,[ALB] TRING SPORT 2 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262237
+#EXTINF:0,[ALB] TRING SPORT 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262238
+#EXTINF:0,[ALB] TRING SPORT 3 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262239
+#EXTINF:0,[ALB] TRING SPORT 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262240
+#EXTINF:0,[ALB] TRING SPORT 4 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262241
+#EXTINF:0,[ALB] TRING SPORT 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262242
+#EXTINF:0,[ALB] OVERSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/701637
+#EXTINF:0,[ALB] OVERSPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/701638
+#EXTINF:0,[ALB] OVERSPORT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/701639
+#EXTINF:0,[ALB] OVERSPORT 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/701640
+#EXTINF:0,[ALB] K SPORT 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262243
+#EXTINF:0,[ALB] K SPORT 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262244
+#EXTINF:0,[ALB] K SPORT 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262245
+#EXTINF:0,[ALB] K SPORT 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262246
+#EXTINF:0,[ALB] K SPORT 5 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262247
+#EXTINF:0,[ALB] ART SPORT 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262248
+#EXTINF:0,[ALB] ART SPORT 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262249
+#EXTINF:0,[ALB] ART SPORT 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262250
+#EXTINF:0,[ALB] ART SPORT 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/799589
+#EXTINF:0,[ALB] ART SPORT 5 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/799588
+#EXTINF:0,[ALB] ART SPORT 6 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/799587
+#EXTINF:0,[ALB] FIGHT BOX UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262254
+#EXTINF:0,[ALB] RTSH MUZIKE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261999
+#EXTINF:0,[ALB] BLUE SKY TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261996
+#EXTINF:0,[ALB] TV ZJARR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262000
+#EXTINF:0,[ALB] MY MUSIC UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262002
+#EXTINF:0,[ALB] MUSIC: FOLK PLUS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262005
+#EXTINF:0,[ALB] MUSIC: STV FOLK
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262006
+#EXTINF:0,[ALB] MUSIC: SUPERSONIC TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262007
+#EXTINF:0,[ALB] MUSIC: TV SHARRI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262008
+#EXTINF:0,[ALB] IN TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262011
+#EXTINF:0,[ALB] A MOL TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262013
+#EXTINF:0,[ALB] ISTOGU CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/680045
+#EXTINF:0,[ALB] CLICK UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262018
+#EXTINF:0,[ALB] GLOBE TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/785457
+#EXTINF:0,[ALB] TV RED
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/786539
+#EXTINF:0,[ALB] ANTENA CHANNEL 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/806073
+#EXTINF:0,[ALB] TELEVISION
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/791029
+#EXTINF:0,[ALB] ON TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/803343
+#EXTINF:0,[ALB] DIELLI TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/803342
+#EXTINF:0,[ALB] DRITA TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/803341
+#EXTINF:0,[ALB] FLUTURA TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/791017
+#EXTINF:0,[ALB] SHOTA TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/803340
+#EXTINF:0,[ALB] ISLAM CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262256
+#EXTINF:0,[ALB] ISLAM CHANNEL 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262258
+#EXTINF:0,[ALB] ISLAM CHANNEL 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262259
+#EXTINF:0,[ALB] ISLAM CHANNEL FEMIJE UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262260
+#EXTINF:0,[ALB] ISLAM CHANNEL QURAN HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/630464
+#EXTINF:0,[ALB] ICE ISLAM UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262262
+#EXTINF:0,[ALB] MEDINE LIVE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262263
+#EXTINF:0,[ALB] MEKKE LIVE UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262264
+#EXTINF:0,[ALB] PEACE TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262265
+#EXTINF:0,[ALB] ASHKALI ISLAM
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262019
+#EXTINF:0,[ALB] RTV ISLAM
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262266
+#EXTINF:0,[ALB] RTV PENDIMI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262172
+#EXTINF:0,[ALB] RTK 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261934
+#EXTINF:0,[ALB] RTK 1 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261933
+#EXTINF:0,[ALB] RTK 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261935
+#EXTINF:0,[ALB] RTK 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261936
+#EXTINF:0,[ALB] RTK 2
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261937
+#EXTINF:0,[ALB] RTK 3 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261938
+#EXTINF:0,[ALB] RTK 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261939
+#EXTINF:0,[ALB] RTK 3
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261940
+#EXTINF:0,[ALB] RTK 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261941
+#EXTINF:0,[ALB] RTK 4
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261942
+#EXTINF:0,[ALB] RTV 21 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261943
+#EXTINF:0,[ALB] RTV 21 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261944
+#EXTINF:0,[ALB] RTV21 MAQEDONIA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261945
+#EXTINF:0,[ALB] RTV ILIRIDA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/640836
+#EXTINF:0,[ALB] RTV ILIRIDA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/645473
+#EXTINF:0,[ALB] RTV ILIRIDA : MEMDI
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/656155
+#EXTINF:0,[ALB] RTV ILIRIDA : HUMOUR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/656154
+#EXTINF:0,[ALB] RTV ILIRIDA : FEMIJ
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/656152
+#EXTINF:0,[ALB] RTV ILIRIDA : FILM
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/656151
+#EXTINF:0,[ALB] RTV ILIRIDA : DOKUMENTAR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/656150
+#EXTINF:0,[ALB] RTV ILIRIDA : RTV ILIRIDA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/656149
+#EXTINF:0,[ALB] KTV KOHAVISION 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261946
+#EXTINF:0,[ALB] KTV KOHAVISION UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261947
+#EXTINF:0,[ALB] TV KOHA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261948
+#EXTINF:0,[ALB] RTV21 MIX UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261949
+#EXTINF:0,[ALB] RTV21 PLUS UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261950
+#EXTINF:0,[ALB] FIRST TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261951
+#EXTINF:0,[ALB] TV ERA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261952
+#EXTINF:0,[ALB] TV MITROVICA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261953
+#EXTINF:0,[ALB] KLAN KOSOVA 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261958
+#EXTINF:0,[ALB] KLAN KOSOVA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261959
+#EXTINF:0,[ALB] KLAN MACEDONIA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261962
+#EXTINF:0,[ALB] TV2 GOSTIVAR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261970
+#EXTINF:0,[ALB] TV TETOVA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261971
+#EXTINF:0,[ALB] T7 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261975
+#EXTINF:0,[ALB] T7
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261976
+#EXTINF:0,[ALB] ALSAT M UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261977
+#EXTINF:0,[ALB] DUKAGJINI FHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261981
+#EXTINF:0,[ALB] MRT 2
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261982
+#EXTINF:0,[ALB] ALSAT M
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261978
+#EXTINF:0,[ALB] SHENJA TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261983
+#EXTINF:0,[ALB] BESA TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261986
+#EXTINF:0,[ALB] KANAL 10 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261987
+#EXTINF:0,[ALB] TV LIRIA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261992
+#EXTINF:0,[ALB] TV USKANA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261993
+#EXTINF:0,[ALB] TV OPOJA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262268
+#EXTINF:0,[ALB] ATV KOSOVO HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/570372
+#EXTINF:0,[ALB] TV GLOBI
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261988
+#EXTINF:0,[ALB] TV JUG
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261991
+#EXTINF:0,[ALB] TOP ESTRADA MUSIC UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261997
+#EXTINF:0,[ALB] TV PLISI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/261998
+#EXTINF:0,[ALB] MTV KOSOVA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262001
+#EXTINF:0,[ALB] MUSIC: BBF MUSIC
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262004
+#EXTINF:0,[ALB] RTV21 POPULLORE UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262012
+#EXTINF:0,[ALB] RTV FONTANA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/703195
+#EXTINF:0,[ALB] PITO MUSIC UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262009
+#EXTINF:0,[ALB] SWISS TV UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262014
+#EXTINF:0,[ALB] ZICO TV
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262015
+#EXTINF:0,[ALB] TV SHAHIRAT
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262016
+#EXTINF:0,[ALB] TURBO CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262017
+#EXTINF:0,[ALB] CATI DANCE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/610056
+#EXTINF:0,[ALB] CATI HITS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642572
+#EXTINF:0,[ALB] CATI BURIMOR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642573
+#EXTINF:0,[ALB] CATI TALLAVA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642574
+#EXTINF:0,[ALB] CATI POTPURI
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642576
+#EXTINF:0,[ALB] CATI QIFTELI
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642594
+#EXTINF:0,[ALB] CATI HUMOR
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642595
+#EXTINF:0,[ALB] CATI MOVIE 1
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642596
+#EXTINF:0,[ALB] CATI MOVIE 2
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642597
+#EXTINF:0,[ALB] CATI MOVIE 3
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/642598
+#EXTINF:0,[ALB] SYRI BLU MUSIC UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262010
+#EXTINF:0,[ALB] FILMBOX ARTHOUSE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262035
+#EXTINF:0,[ALB] FILMBOX EXTRA
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262036
+#EXTINF:0,[ALB] FILMBOX PLUS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262037
+#EXTINF:0,[ALB] FILMBOX PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262038
+#EXTINF:0,[ALB] KINO PREMIER 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262049
+#EXTINF:0,[ALB] KINO PREMIER 1 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262048
+#EXTINF:0,[ALB] KINO FESTA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262054
+#EXTINF:0,[ALB] KINO HISTORY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262055
+#EXTINF:0,[ALB] KINO SHQIP UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262060
+#EXTINF:0,[ALB] KINO STUPCAT UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262061
+#EXTINF:0,[ALB] KINO THRILLER UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262062
+#EXTINF:0,[ALB] Q ACTION UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262063
+#EXTINF:0,[ALB] Q DRAMA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262064
+#EXTINF:0,[ALB] Q HINDI 1HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262065
+#EXTINF:0,[ALB] Q HINDI 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262066
+#EXTINF:0,[ALB] Q HUMOR UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262067
+#EXTINF:0,[ALB] Q KOMEDI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262068
+#EXTINF:0,[ALB] Q MUZIKE SHQIP
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262069
+#EXTINF:0,[ALB] Q POPULLORE UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262070
+#EXTINF:0,[ALB] Q PREMIUM 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262071
+#EXTINF:0,[ALB] Q PREMIUM 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262072
+#EXTINF:0,[ALB] Q PREMIUM 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262073
+#EXTINF:0,[ALB] Q PREMIUM 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262074
+#EXTINF:0,[ALB] Q PREMIUM 5 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262075
+#EXTINF:0,[ALB] Q STUPCAT UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262077
+#EXTINF:0,[ALB] Q THRILLER UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262078
+#EXTINF:0,[ALB] Q WESTERN UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262079
+#EXTINF:0,[ALB] EURO FILM 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262081
+#EXTINF:0,[ALB] EURO FILM 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262082
+#EXTINF:0,[ALB] EURO FILM 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262083
+#EXTINF:0,[ALB] EURO FILM 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262084
+#EXTINF:0,[ALB] TV PLISI ACTION UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262085
+#EXTINF:0,[ALB] TV PLISI COMEDY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262086
+#EXTINF:0,[ALB] TV PLISI FANTASY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262087
+#EXTINF:0,[ALB] TV PLISI HORROR UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262088
+#EXTINF:0,[ALB] TV PLISI HUMOR UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262089
+#EXTINF:0,[ALB] TV PLISI QIFTELI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262090
+#EXTINF:0,[ALB] TV PLISI THRILLER UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262091
+#EXTINF:0,[ALB] X PREMIUM 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262092
+#EXTINF:0,[ALB] X PREMIUM 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262093
+#EXTINF:0,[ALB] X PREMIUM 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262094
+#EXTINF:0,[ALB] X ACTION UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262096
+#EXTINF:0,[ALB] X CIFTELI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262097
+#EXTINF:0,[ALB] X COMEDY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262098
+#EXTINF:0,[ALB] X DARK UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262099
+#EXTINF:0,[ALB] X DRAMA UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262100
+#EXTINF:0,[ALB] X FAMILY UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262101
+#EXTINF:0,[ALB] X FILMA 24 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262102
+#EXTINF:0,[ALB] X HUMOR UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262103
+#EXTINF:0,[ALB] X MUSIC HITS UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262104
+#EXTINF:0,[ALB] X ROMANCE UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262106
+#EXTINF:0,[ALB] X SCI-FI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262107
+#EXTINF:0,[ALB] X THRILLER UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262108
+#EXTINF:0,[ALB] ART KINO 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262110
+#EXTINF:0,[ALB] ART KINO 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262111
+#EXTINF:0,[ALB] ART KINO 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262112
+#EXTINF:0,[ALB] ART KINO PREMIUM 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262113
+#EXTINF:0,[ALB] ART KINO PREMIUM 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262114
+#EXTINF:0,[ALB] ART KINO PREMIUM 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262115
+#EXTINF:0,[ALB] ART PRIME UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262131
+#EXTINF:0,[ALB] TELE ONE 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262141
+#EXTINF:0,[ALB] TELE ONE 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262142
+#EXTINF:0,[ALB] TELE ONE 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262143
+#EXTINF:0,[ALB] TELE ONE 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262144
+#EXTINF:0,[ALB] TELE ONE 5 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262145
+#EXTINF:0,[ALB] TELE ONE 6 UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262146
+#EXTINF:0,[ALB] PITO HUMOR UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262156
+#EXTINF:0,[ALB] PITO LOL UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262157
+#EXTINF:0,[ALB] Q TOM & JERRY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262155
+#EXTINF:0,[ALB] PITO STUPCAT UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262158
+#EXTINF:0,[ALB] FILM STINET
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262033
+#EXTINF:0,[ALB] KAFENEJA JONE 24/7 HD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/721938
+#EXTINF:0,[ALB] X HISTORI UHD
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262182
+#EXTINF:0,[ALB] SKY PLANET
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262185
+#EXTINF:0,[ALB] SKY SHKENCE
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262186
+#EXTINF:0,[ALB] SKY HISTORY
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262187
+#EXTINF:0,[ALB] ARTA NEWS 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262171
+#EXTINF:0,[ALB] ARTA NEWS
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262170
+#EXTINF:0,[ALB] RTV21 NEWSBIZ 4K
+#EXTVLCOPT:network-caching=1000
+http://dm.lion-ott.com:80/SherifPolici/s6FR6106/262173
